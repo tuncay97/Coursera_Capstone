@@ -1,1 +1,2 @@
 # Coursera_Capstone
+Istanbul is the largest city in Turkey and the country's economic, cultural and historic center. As a resident of this city, I decided to create my project about Istanbul. The city straddles the Bosphorus strait, and lies in both Europe and Asia, with a population of over 15 million residents, comprising 19% of the population of Turkey. Istanbul is also the most populous city in Europe and the world's fifteenth-largest city.
